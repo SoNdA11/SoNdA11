@@ -30,8 +30,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SoNdA11/SoNdA11/output/snake.svg" alt="Snake animation" />
-
-###
